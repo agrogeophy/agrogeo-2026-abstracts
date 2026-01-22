@@ -35,14 +35,14 @@
       width: 100%,
       stroke: (top: 1pt + gray),
       inset: (top: 8pt, right: 2pt),
-      [
+      context [
         #set text(font: theme.font, size: 9pt, fill: gray.darken(50%))
         #pubmatter.show-spaced-content((
           if("venue" in fm) {emph(fm.venue)},
           if("date" in fm and fm.date != none) {fm.date.display("[month repr:long] [day], [year]")}
         ))
         #h(1fr)
-        #{if (page-start == none) {counter(page).display()} else {page-start}} of #{if (page-start == none) {locate((loc) => {counter(page).final(loc).first()})} else {max-page}}
+        #{if (page-start == none) {counter(page).display()} else {page-start}} of #{if (page-start == none) {counter(page).final().first()} else {max-page}}
       ]
     ),
   )
@@ -72,7 +72,8 @@
 
   // Configure headings.
   set heading(numbering: heading-numbering)
-  show heading: it => locate(loc => {
+  show heading: it => context {
+    let loc = here()
     // Find out the final number of the heading counter.
     let levels = counter(heading).at(loc)
     set text(10pt, weight: 400)
@@ -111,7 +112,7 @@
       }
       _#(it.body):_
     ]
-  })
+  }
 
 
   if (logo != none) {
