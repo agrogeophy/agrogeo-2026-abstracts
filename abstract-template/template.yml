@@ -1,0 +1,71 @@
+jtex: v1
+kind: typst
+title: Agrogeo 2026 Abstract Template
+description: Simple Typst Template for rendering Agrogeo 2026 abstracts to PDF
+template: template.typ
+files:
+  - agrogeo.typ
+  - agrogeo.png
+  - template.typ
+  - LICENSE
+authors:
+  - name: Rowan Cockett
+    github: rowanc1
+    affiliations:
+      - Curvenote
+  - name: Franklin Koch
+    github: fwkoch
+    affiliations:
+      - Curvenote
+version: 0.0.1
+license: MIT
+tags:
+  - preprint
+  - article
+  - paper
+thumbnail: ./agrogeo.png
+github: https://github.com/curvenote-submit/agrogeo26
+doc:
+  - id: title
+    required: true
+  - id: authors
+    required: true
+  - id: subtitle
+  - id: short_title
+  - id: open_access
+  - id: keywords
+  - id: subject
+  - id: doi
+  - id: venue
+  - id: license
+options:
+  - id: logo
+    type: file
+    description: An image path that is shown in the top right of the page
+  - id: kind
+    type: string
+    description: The "kind" of the content, e.g. "Original Research" - shown as the title of the margin content on the first page
+  - id: page-start
+    type: number
+  - id: max-page
+    type: number
+parts:
+  - id: abstract
+    description: >
+      An abstract is a short summary of your research paper or report. A good
+      abstract will prepare readers for the detailed information to follow,
+      communicate the essence of the article and help readers take away and remember key points.
+    max_words: 500
+    required: true
+  - id: summary
+    description: Plain language summary
+    max_words: 500
+    required: false
+  - id: acknowledgements
+    description: >
+      Acknowledgements printed in the margin
+    max_words: 500
+  - id: availability
+    description: >
+      Data availability statement printed in the margin
+    max_words: 500

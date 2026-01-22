@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.eps
 _build
+abstracts/*/abstract.pdf

@@ -1,0 +1,26 @@
+version: 1
+project:
+  venue:
+    title: Agrogeo 2026
+    short_title: Agrogeo26
+    number: 4th
+    location: Lisbon, Portugal
+    date: 5-6 February 2026
+    url: https://agrogeophy.github.io/agrogeo26/
+  date: 2026-02-05
+  banner: banner.png
+  thumbnail: thumbnail.png
+  open_access: true
+  license: CC-BY-4.0
+  exports:
+    - format: typst
+      id: pdf
+      article: abstract.md
+      output: abstract.pdf
+      template: ../../abstract-template
+site:
+  template: article-theme
+  actions:
+    - title: pdf
+      url: abstract.pdf
+      static: true
