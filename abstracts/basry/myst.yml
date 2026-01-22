@@ -1,0 +1,26 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-basry
+  title: The Use of Seismic Surveys to Monitor Soil Compaction under Different Watering Regimes in Agricultural Fields
+  description: Soil structure degradation poses significant challenges to sustainable agriculture. This study aims to understand how agricultural soils respond to wetting-drying cycles under various watering regimes.
+  keywords:
+    - Soil compaction
+    - Seismic surveys
+    - Watering regimes
+    - Precision agriculture
+  authors:
+    - name: Basry Yadi Tang
+      affiliation: leeds-ees
+    - name: Andy Nowacki
+      affiliation: leeds-ees
+    - name: Ana Heitor
+      affiliation: leeds-ce
+    - name: Adam Booth
+      affiliation: leeds-ees
+  affiliations:
+    - id: leeds-ees
+      name: School of Earth, Environment and Sustainability, University of Leeds, United Kingdom
+    - id: leeds-ce
+      name: School of Civil Engineering, University of Leeds, United Kingdom
+  github: https://github.com/curvenote-submit/agrogeo26
