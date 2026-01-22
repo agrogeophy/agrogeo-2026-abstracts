@@ -1,0 +1,13 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-cassian
+  title: 'Static and dynamic aspects of non-invasive characterization and monitoring agricultural soils: assimilation with traditional probes and scale issues'
+  description: Serious threats to agricultural soil comprise soil erosion, decline in organic matter, local and diffuse contamination, sealing, compaction, decline in biodiversity, salinization, floods and landslides. One major prerequisite for the specific protection and/or restoration of soils is the availability of high-resolution soil property maps. Various soil parameters can be mapped using rapid, nearly non-destructive geophysical methods.
+  authors:
+    - name: Giorgio Cassian
+      affiliation: Dipartimento di Geoscienze, Università degli Studi di Padova, Italy
+  abbreviations:
+    EMI: electromagnetic induction
+    GPR: ground penetrating radar
+  github: https://github.com/curvenote-submit/agrogeo26
