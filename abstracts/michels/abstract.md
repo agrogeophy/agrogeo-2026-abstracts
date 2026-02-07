@@ -1,0 +1,11 @@
+---
+title: Investigating soil-plant-atmosphere interactions by combining spectral electrical impedance tomography with environmental and physiological timeseries
+description: The soil-plant-atmosphere continuum plays a critical role in the distribution of water and nutrients in terrestrial ecosystems. In this study, we monitored water and nutrient transport processes in a maize field over several months with spectral electrical impedance tomography, sapflow sensors, a fluorescence sensor, and a weather station.
+---
+
+# Abstract
+
+The soil-plant-atmosphere continuum (SPAC) plays a critical role in the distribution of water and nutrients in terrestrial ecosystems. To understand the complex and rapid dynamics within the SPAC, it is necessary to observe its components with sub-daily resolution. While measurements of above-ground processes are frequently employed, monitoring of the below-ground part remains scarce due to its inaccessibility.
+In this study, we monitored water and nutrient transport processes in a maize field over several months. The rhizosphere was monitored with spectral electrical impedance tomography (sEIT) to capture soil water content (SWC) dynamics, root structure, and activity. Stem water transport and photosynthetic activity were measured with sapflow sensors and a fluorescence sensor, respectively, while atmospheric conditions were measured with a weather station. Timeseries were analyzed using cross and coherence wavelet analysis.
+Electrical imaging results revealed spatially and temporally resolved daily variations in subsurface conductivity and polarization properties, suggesting a sensitivity to water and ion uptake processes. Conductivity development was strongly correlated with SWC dynamics controlled by evaporation and water uptake of plants. Wavelet power showed that belowground polarization diurnality was consistent with a typical growth pattern of maize, and disappeared shortly after harvest. Cross wavelet analysis of sun-induced fluorescence, sapflow density, photosynthetically active radiation, and vapor pressure deficit revealed lags caused by environmental conditions, highlighting the coupling of plant activity to the atmosphere. Our results show that sEIT is a valuable tool to study rhizosphere processes and may aid in the holistic modeling of the SPAC.
+
