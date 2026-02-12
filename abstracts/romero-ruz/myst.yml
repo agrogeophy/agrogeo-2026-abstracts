@@ -11,7 +11,7 @@ project:
       affiliation: University of Neuchâtel
   github: https://github.com/curvenote-submit/agrogeo26
   jupyter: true
-  dependencies:
+  requirements:
     - requirements.txt
   resources:
     - dataAbstract/*
