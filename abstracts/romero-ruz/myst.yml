@@ -10,3 +10,8 @@ project:
     - name: Landon Halloran
       affiliation: University of Neuchâtel
   github: https://github.com/curvenote-submit/agrogeo26
+  jupyter: true
+  resources:
+    - dataAbstract/*
+  exports:
+    - format: meca
