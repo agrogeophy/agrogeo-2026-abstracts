@@ -1,0 +1,56 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-michels
+  title: Investigating soil-plant-atmosphere interactions by combining spectral electrical impedance tomography with environmental and physiological timeseries
+  description: The soil-plant-atmosphere continuum plays a critical role in the distribution of water and nutrients in terrestrial ecosystems. In this study, we monitored water and nutrient transport processes in a maize field over several months with spectral electrical impedance tomography, sapflow sensors, a fluorescence sensor, and a weather station.
+  authors:
+    - name: Valentin Michels
+      affiliations:
+        - aff1
+    - name: Simon De Cannière
+      affiliations:
+        - aff2
+    - name: Gina Lopez
+      affiliations:
+        - aff3
+    - name: Maximilian Weigand
+      affiliations:
+        - aff1
+    - name: Kevin Warstat
+      affiliations:
+        - aff4
+    - name: Sabine Seidel
+      affiliations:
+        - aff3
+        - aff5
+    - name: Onno Muller
+      affiliations:
+        - aff4
+    - name: Uwe Rascher
+      affiliations:
+        - aff4
+    - name: Harry Vereecken
+      affiliations:
+        - aff6
+    - name: Andreas Kemna
+      affiliations:
+        - aff1
+  affiliations:
+    - id: aff1
+      name: University of Bonn, Institute of Geosciences, Geophysics Section, Bonn, Germany
+    - id: aff2
+      name: University of Antwerp, Department of Biology, Flanders, Belgium
+    - id: aff3
+      name: University of Bonn, Institute of Crop Science and Resource Conservation, Bonn, Germany
+    - id: aff4
+      name: Forschungszentrum Jülich, Institute for Bio- and Geosciences, Plant Sciences (IBG-2), Jülich, Germany
+    - id: aff5
+      name: University of Natural Resources and Life Sciences, Institute of Organic Farming, Vienna, Austria
+    - id: aff6
+      name: Forschungszentrum Jülich, Institute for Bio- and Geosciences, Agrosphere (IBG-3)
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    SPAC: soil-plant-atmosphere continuum
+    sEIT: spectral electrical impedance tomography
+    SWC: soil water content

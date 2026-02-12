@@ -1,0 +1,11 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-graca
+  title: 'From Soil to Sip: how geophysics are unravelling 21st century wines'
+  description: Most recent applications and developments in geophysics applied to modern viticulture are unravelling new management strategies for grape and wine production. Geophysical technologies have been employed by Sogrape to optimize the creation and foster resilient management of our vineyards.
+  authors:
+    - name: António Graça
+      affiliations:
+        - Sogrape, Portugal
+  github: https://github.com/curvenote-submit/agrogeo26
