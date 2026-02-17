@@ -11,5 +11,5 @@ Soil compaction is a threat with negative impacts on soil ecosystem services, su
 :label: fig:arrplot
 :placeholder: arrplot.jpg
 
-Interactive map of losses
+Interactive map of losses arr
 :::
