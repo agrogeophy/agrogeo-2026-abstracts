@@ -6,7 +6,7 @@ project:
   description: Increasing global population and living standards require greater agricultural production than ever before. Simultaneously, reductions in the availability of arable land and fresh water require more efficient use of natural resources. Recent research shows how the combination of geophysical and UAV-based techniques can be used to rapidly characterize soil properties over an entire field.
   authors:
     - name: Katherine Grote
-      affiliation: ibg
+      affiliation: Missouri University of Science and Technology
   github: https://github.com/curvenote-submit/agrogeo26
   abbreviations:
     EMI: electromagnetic induction
