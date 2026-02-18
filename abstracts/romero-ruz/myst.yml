@@ -18,3 +18,5 @@ project:
     - dataAbstract/*
   exports:
     - format: meca
+  bibtex_bibfiles:
+  - refARR.bib
