@@ -14,12 +14,14 @@ project:
     - name: Maria Catarina Paz
       affiliation: CIQuiBio
     - name: Ana Marta Paz
-      affiliation: INIAV
+      affiliation: mare
   affiliations:
     - id: INIAV
       name: INIAV, Instituto Nacional de Investigação Agrária e Veterinária, Oeiras, Portugal
     - id: CIQuiBio
       name: CIQuiBio, Barreiro School of Technology, Polytechnic Institute of Setúbal, Lavradio, Portugal
+    - id: mare
+      name: MARE - Marine and Environmental Sciences Centre/ARNET - Aquatic research Network, Instituto Politécnico de Setúbal, Escola Superior de Tecnologia do Barreiro, Rua Américo da Silva Marinho, 2839-001, Lavradio, Portugal
   github: https://github.com/curvenote-submit/agrogeo26
   abbreviations:
     EMI: electromagnetic induction
