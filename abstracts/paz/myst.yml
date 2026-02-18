@@ -15,7 +15,7 @@ project:
       affiliation: aff4
   affiliations:
     - id: aff1
-      name: Instituto Politécnico de Setúbal, Escola Superior de Tecnologia do Barreiro, Rua Américo da Silva Marinho, 2839-001 Lavradio, Portugal
+      name: MARE - Marine and Environmental Sciences Centre/ARNET - Aquatic research Network, Instituto Politécnico de Setúbal, Escola Superior de Tecnologia do Barreiro, Rua Américo da Silva Marinho, 2839-001, Lavradio, Portugal
     - id: aff2
       name: Applied Near-Surface Geophysics Research Group, Department of Mining and Civil Engineering, Polytechnic University of Cartagena, Paseo Alfonso XIII 52, 30203 Cartagena, Spain
     - id: aff3
