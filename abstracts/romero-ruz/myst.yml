@@ -6,10 +6,15 @@ project:
   description: Soil compaction is a threat with negative impacts on soil ecosystem services, such as food production, groundwater recharge and climate regulation. This study discusses an approach to estimate them by combining (1) continental-based agroecosystem simulations of compaction induced economic losses and (2) case study-based quantification of soil compaction spatial extent with geophysical methods.
   authors:
     - name: Alejandro Romero-Ruiz
-      affiliation: University of Neuchâtel
+      affiliation: University of Neuchâtel, Switzerland
       orcid: 0000-0002-6654-2908
+      - name: Thomas Keller
+      affiliation: Department of Agroecology and Environment, Agroscope, Switzerland
+      orcid: 0000-0002-9383-3209
     - name: Landon Halloran
-      affiliation: University of Neuchâtel
+      affiliation: University of Neuchâtel, Switzerland
+      orcid: 0000-0002-0205-5430
+
   github: https://github.com/curvenote-submit/agrogeo26
   jupyter: true
   requirements:

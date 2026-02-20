@@ -13,7 +13,7 @@ As shown in {numref}`fig:arrplot`, the predicted compaction extent of soil compa
 
 :::{figure} #arrplot
 :label: fig:arrplot
-:placeholder: arrplot.jpg
+:placeholder: fig1arr.png
 
 Interactive map of soil compaction-induced economic cost and soil services losses in European cropland. The figure allows users to input the percentage of compacted land (in %), the latitude and longitude (degress) of the location of interest, and the limits of the colormap. The panel on the left shows the colormap of soil compaction economic costs with the input settings. The panel on the right outputs the corresponding histograms of compaction induced economic costs, crop yield loss, carbon loss, increase in nitrous oxide emissions and increase in nitrate leaching. The initial settings correspons to the study of @10.1111/sum.12763, located in Germany. The colormap was created with simulations reported by {cite}`romero2026`.
 :::
