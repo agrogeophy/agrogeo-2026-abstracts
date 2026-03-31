@@ -13,14 +13,14 @@ project:
       orcid: 0000-0002-0633-4293
     - name: Agnese Innocenti 
       affiliation: Department of Earth Sciences, University of Florence, Firenze, 50121, Italy
-      oricd: 0000-0001-9789-6736
+      orcid: 0000-0001-9789-6736
     - name: Veronica Pazzi 
       affiliation: Department of Earth Sciences, University of Florence, Firenze, 50121, Italy
-      oricd: 0000-0002-9191-0346
+      orcid: 0000-0002-9191-0346
     - name: Alejandro Romero-Ruiz
       affiliation: University of Neuchâtel, Switzerland
       orcid: 0000-0002-6654-2908
 
- github: https://github.com/curvenote-submit/agrogeo26
+github: https://github.com/curvenote-submit/agrogeo26
 
 
