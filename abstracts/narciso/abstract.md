@@ -1,6 +1,6 @@
 ---
-title: 'Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotation Experiments in Uruguay: An Agrogeophysical Approach'
-description: Understanding soil–water dynamics is essential for sustainable land management, particularly in agricultural systems facing intensification and climate variability. This study demonstrates that integrating agrogeophysical tools with agronomic data from long-term experiments provides a valuable framework for assessing soil–water dynamics and the long-term impact of crop and pasture rotation and soil conservation strategies.
+title: 'Advances in Agrogeophysics: Techniques and Applications in Agriculture'
+description: Agrogeophysics employs geophysical methods - from electromagnetic and electrical techniques to seismic and remote sensing approaches - ranging from ground-based systems, through drones, to satellite-borne equipment, to characterize the spatial and temporal variability of soil and subsurface processes relevant for agronomic management. These methods provide non-invasive, scalable, and high-resolution insights into the soil–plant–atmosphere continuum, supporting improved understanding of water dynamics, soil properties, and subsurface heterogeneity.
 ---
 
 # Abstract
