@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/ygnm6762
   id: agrogeo-2026-mwendwa
   title: Novel methodologies for multi-sensor data fusion for high-resolution soil mapping
   description: High-resolution digital soil mapping is essential for precision agriculture, yet most operational mapping still relies on single-sensor surveys, often depending on what is available. This study provides methodological insights into cost-effective multi-sensor data fusion and outlines a practical workflow towards PA and soil digital twins.

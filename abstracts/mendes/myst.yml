@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/wcwn9782
   id: agrogeo-2026-mendes
   title: Application of ground-penetrating radar and electrical resistivity tomography to evaluate the impact of future construction on tree health in a historical botanical garden in Lisbon
   description: Historical botanical gardens are unique sites of conservation, research, education, and connection with the plant world. A methodology integrating two non-invasive geophysical techniques — ground-penetrating radar and electrical resistivity tomography — was applied to assess groundwater levels in the construction area and establish the piezometric surface, and to determine whether tree root zones reach the saturated zone, establish a groundwater baseline, and propose protective measures. Results indicate that the piezometric surface and tree root zones extend to depths of up to 3.0 m, demonstrating that tree roots can reach groundwater levels. This highlights the need for groundwater monitoring and management strategies.

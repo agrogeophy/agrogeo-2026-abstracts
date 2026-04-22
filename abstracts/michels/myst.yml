@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/tjhg2973
   id: agrogeo-2026-michels
   title: Investigating soil-plant-atmosphere interactions by combining spectral electrical impedance tomography with environmental and physiological timeseries
   description: The soil-plant-atmosphere continuum plays a critical role in the distribution of water and nutrients in terrestrial ecosystems. In this study, we monitored water and nutrient transport processes in a maize field over several months with spectral electrical impedance tomography, sapflow sensors, a fluorescence sensor, and a weather station.

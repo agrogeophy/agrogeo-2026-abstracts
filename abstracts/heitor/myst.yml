@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/nvtn2453
   id: agrogeo-2026-heitor
   title: Why does soil water retention capacity and soil structure matter for agrogeophyics
   description: Soil water retention capacity and soil structure are fundamental properties that influence agroecosystems, for instance plant growth, nutrient cycling, and hydromechanical dynamics. In this paper, the interconnected role of soil water retention and structure in agrogeophysics is highlighted and their significance for optimizing resource use and mitigating environmental impacts in modern farming systems it outlined.

@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/ynph7799
   id: agrogeo-2026-vanderlinden
   title: Spatiotemporal integration of ECa and NDVI to uncover dynamic soil-crop interactions in water-limited environments
   description: Soil apparent electrical conductivity (ECa) is widely used as an integrative indicator of soil properties influencing crop performance, while vegetation indices (e.g. NDVI) provide spatially and temporally detailed information on crop development. We hypothesize that spatiotemporal correlation analysis between ECa and NDVI can reveal shifts in soil conditions that constrain or promote crop growth.

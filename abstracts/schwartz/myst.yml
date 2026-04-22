@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/hdmf7492
   id: agrogeo-2026-schwartz
   title: ERT-Based Phenotyping of Root Architecture and Water Use Efficiency in Wheat
   description: In arid and semi-arid regions, terminal drought is a primary constraint on wheat production. This study utilized Electrical Resistivity Tomography to non-invasively quantify root water uptake and phenotype genotypes with contrasting root system architectures under field conditions.

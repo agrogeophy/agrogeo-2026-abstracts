@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/pfma4484
   id: agrogeo-2026-speeckaert
   title: Evaluating the precrop effect of legumes using electromagnetic induction
   description: Grain legumes play an important role in the transition to more sustainable agroecological cropping systems. Incorporating them into traditional crop rotations can offer a wide range of benefits, both nitrogen and non-nitrogen related. Nevertheless, the underlying non-nitrogen mechanisms remain insufficiently quantified. Improved soil porosity, aggregation and water holding capacity after legumes have been proposed as water-related benefits potentially enhancing soil water availability [@10.4141/P01-116; @10.1016/j.still.2018.10.003; @10.1016/S0378-4290(00)00151-9]. This study evaluated how leguminous versus non-leguminous precrops influence soil moisture patterns and subsequent cereal yields, using repeated electromagnetic induction measurements as a non-invasive monitoring tool.

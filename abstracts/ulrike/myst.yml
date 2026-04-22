@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/dmyh8278
   id: agrogeo-2026-ulrike
   title: Towards a Metadata Framework for Near-Surface Geophysical Data in Agriculture
   description: Near-surface geophysical methods are increasingly used in agriculture to characterise soil properties, monitor spatial variability, and support site-specific management. We present an initial metadata framework designed for near-surface geophysical prospecting for agricultural use.

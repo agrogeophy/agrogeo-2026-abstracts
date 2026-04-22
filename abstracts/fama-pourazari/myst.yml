@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/vwja5375
   id: agrogeo-2026-fama-pourazari
   title: 'Controlled Drainage DemoField: Advancing Water Management and Yield Resilience'
   description: Agriculture faces the dual challenge of managing water excess and deficit—pressures intensified by climate change—while reducing nutrient losses to surface waters. Controlled drainage offers a promising solution to improve water management and enhance yield stability.

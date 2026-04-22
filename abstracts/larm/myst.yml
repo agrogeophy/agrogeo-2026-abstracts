@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/wtdy2293
   id: agrogeo-2026-larm
   title: 'Coupling Functional-Structural Plant and Electromagnetic Wave Modeling: A gprMax-CPlantBox Framework for Root-Zone Studies'
   description: Soil-water-crop interactions influence plant growth and productivity. As climate change disrupts agriculture, it is crucial to understand these dynamics to sustain yields through beneficial root phenotypes. We used gprMax, an open-source 3D finite-difference time-domain EM simulation tool, to model EM waves in agricultural soils.

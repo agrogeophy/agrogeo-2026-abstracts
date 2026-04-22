@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/kjcd3353
   id: agrogeo-2026-swift
   title: Just how wet is it? Defining resistivity / moisture content relationships in African Alfisols
   description: A key parameter influencing crop growth is the availability of water and its spatial distribution within agricultural soils. We present laboratory data on agricultural Alfisols from three sites in southern Africa, to define relationships between electrical resistivity and volumetric water content.

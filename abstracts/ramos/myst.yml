@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/wgjh9944
   id: agrogeo-2026-ramos
   title: 'Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotation Experiments in Uruguay: An Agrogeophysical Approach'
   description: Understanding soil–water dynamics is essential for sustainable land management, particularly in agricultural systems facing intensification and climate variability. This study demonstrates that integrating agrogeophysical tools with agronomic data from long-term experiments provides a valuable framework for assessing soil–water dynamics and the long-term impact of crop and pasture rotation and soil conservation strategies.

@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/rxmw9877
   id: agrogeo-2026-farzamian
   title: Monitoring soil salinity using EMI in Irrigated Lands in Portugal
   description: Soil salinization is a major constraint on agricultural productivity, requiring efficient monitoring tools to support sustainable management. This study evaluates the capability of electromagnetic induction sensing combined with inversion technique to monitor soil salinity and sodicity across several irrigated agricultural lands in Portugal.

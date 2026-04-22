@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/chrw9566
   id: agrogeo-2026-basry
   title: The Use of Seismic Surveys to Monitor Soil Compaction under Different Watering Regimes in Agricultural Fields
   description: Soil structure degradation poses significant challenges to sustainable agriculture. This study aims to understand how agricultural soils respond to wetting-drying cycles under various watering regimes.

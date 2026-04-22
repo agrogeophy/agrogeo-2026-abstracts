@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/mhtf9967
   id: agrogeo-2026-sai-nagarjuna
   title: Performance Evaluation of Proximal and Remote Sensors for Mapping Subsurface Drainage Systems Under Controlled Conditions
   description: Agricultural subsurface drainage systems are installed to remove excess water from poorly drained soils to improve crop growth and field trafficability. However, many DS were installed decades ago and their locations are often undocumented or imprecise. This study assesses the suitability of GPR, GRS, VIS, and TIR for detecting DS under defined soil texture and moisture conditions.

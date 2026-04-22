@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/akyv9567
   id: agrogeo-2026-gerea
   title: 'Earth Rover Program: A Geophysical Initiative Developing Open-Source Sensors, Methodologies, and Data for Global Soil Health'
   description: As global agriculture faces the pressures of intensive farming and harsher climate conditions, monitoring soil health has become a critical priority. The Earth Rover Program is a non-profit initiative transforming the agricultural sector by making geophysics more open and affordable.

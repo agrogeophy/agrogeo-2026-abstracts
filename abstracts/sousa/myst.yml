@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/rkvg2862
   id: agrogeo-2026-sousa
   title: 'Geospatial Intelligence for Precision Agriculture: Integrating Multi-Sensor Drone Data for Soil-Water-Crop Dynamics'
   description: Precision agriculture is increasingly reliant on geospatial technologies to optimize resource use and improve crop productivity. This keynote explores the integration of multi-sensor data, ranging from multispectral and hyperspectral imaging to LiDAR, thermal, and ground-penetrating radar, acquired via autonomous drones.

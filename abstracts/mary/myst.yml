@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/ghmc5632
   id: agrogeo-2026-mary
   title: Exploring soil management legacies in agronomy through EM and ERT
   description: At a field site near Madrid, we set up an experiment running for several growing seasons to investigate how soil moisture influences barley phenology and yield.

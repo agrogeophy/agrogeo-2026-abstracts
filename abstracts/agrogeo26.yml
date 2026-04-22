@@ -7,6 +7,10 @@ project:
     location: Lisbon, Portugal
     date: 5-6 February 2026
     url: https://agrogeophy.github.io/agrogeo26/
+    publisher: Agrogeophysics
+  volume:
+    title: 'Advances in Agrogeophysics: Techniques and Applications in Agriculture'
+    doi: 10.62329/cdpa3678
   date: 2026-02-05
   banner: ../banner.png
   thumbnail: ../thumbnail.png
@@ -18,6 +22,24 @@ project:
       article: abstract.md
       output: abstract.pdf
       template: ../../abstract-template
+  editors:
+    - name: João Narciso
+      affiliation: Universidade de Lisboa, Instituto Superior Técnico, CERENA, DER, Lisboa, Portugal
+      orcid: 0000-0001-8182-1641
+    - name: Lena Lärm
+      affiliation: 'Institute of Bio- and Geoscience: Agrosphere (IBG-3), Forschungszentrum Jülich GmbH'
+      orcid: 0000-0002-0633-4293
+    - name: Agnese Innocenti
+      affiliation: Department of Earth Sciences, University of Florence, Firenze, 50121, Italy
+      orcid: 0000-0001-9789-6736
+    - name: Veronica Pazzi
+      affiliation: Department of Earth Sciences, University of Florence, Firenze, 50121, Italy
+      orcid: 0000-0002-9191-0346
+    - name: Alejandro Romero-Ruiz
+      affiliation: University of Neuchâtel, Switzerland
+      orcid: 0000-0002-6654-2908
+    - name: Ellen Van De Vijver
+      affiliation: Department of Environment, Ghent University, Belgium
 site:
   template: https://github.com/myst-templates/article-theme/archive/refs/heads/main.zip
   actions:

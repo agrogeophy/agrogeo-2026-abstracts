@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/utwp6297
   id: agrogeo-2026-de-carlo
   title: Optimizing water management zones by clustering geophysical data and remote sensing information
   description: Accurately estimating soil moisture is a significant challenge, especially in the context of climate change. A methodological approach combining geophysical data, remote sensing, and hydrological data from multiple sources has been tested to identify optimal water management zones.

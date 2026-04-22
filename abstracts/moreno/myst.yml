@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/ghcj8549
   id: agrogeo-2026-moreno
   title: Does 3D ERT inform sap flow geometry in a canary palm stem?
   description: Palm trees are arboreal monocots that don't grow secondary xylem. We hypothesized that 3D images from ERT, which informs mainly water content, would provide insight about the radial distribution of sap flow and water capacitance of the stem.

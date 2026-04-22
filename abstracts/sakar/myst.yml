@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/uxpw2333
   id: agrogeo-2026-sakar
   title: Coupling ERT with Physics-Informed Machine Learning to Characterize Root Zone Water Dynamics
   description: Quantifying spatiotemporal root water uptake remains a central challenge in agricultural hydrology, particularly under field conditions where subsurface processes are both heterogeneous and difficult to observe directly. This study presents a physics-informed neural network framework that integrates time-lapse geoelectrical tomograms and point-scale water content measurements to reconstruct unsaturated flow dynamics and infer RWU patterns without prior knowledge of the root system.

@@ -1,6 +1,7 @@
 version: 1
 extends: ../agrogeo26.yml
 project:
+  doi: 10.62329/jhht2265
   id: agrogeo-2026-tilman-hiller
   title: Investigating the effect of sugar beets and maize crops on EMI and GPR signals
   description: Agrogeophysical methods have demonstrated high potential to face upcoming challenges posed by climate change, such as water scarcity. Here, we combined Electromagnetic Induction and Ground Penetrating Radar  to investigate small-scale changes linked to different cropping systems over different periods of the growing season.
